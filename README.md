@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Ammara Haider  
 
-<!--
-**ammara-haider/ammara-haider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Web Development** and building my skills step by step.  
+💡 Passionate about creating user-friendly and responsive websites.  
+🚀 Always curious to learn new technologies and improve my coding skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+
+- **Frontend Development**: HTML, CSS, JavaScript (learning phase)  
+- **Web Design Basics**: Responsive layouts, clean and simple UI design  
+- **Version Control**: Git & GitHub (basic usage)  
+- **Problem Solving**: Enthusiastic about solving coding challenges  
+
+---
+
+
+## 📫 Connect with Me  
+
+- GitHub: [@ammara-haider](https://github.com/ammara-haider)  
+
