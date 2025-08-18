@@ -20,18 +20,12 @@
 
 - GitHub: [@ammara-haider](https://github.com/ammara-haider)
 
-  ## 📊 GitHub Analytics  
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammara-haider&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammara-haider&show_icons=true&theme=radical" alt="stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammara-haider&layout=compact&langs_count=8&theme=radical" alt="langs" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammara-haider&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammara-haider&theme=radical" alt="streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammara-haider&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
